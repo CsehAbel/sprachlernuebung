@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/sprachlernuebung/static/css/main.d20b476e.css",
-    "main.js": "/sprachlernuebung/static/js/main.1cfded06.js",
+    "main.css": "/sprachlernuebung/static/css/main.088b7b0f.css",
+    "main.js": "/sprachlernuebung/static/js/main.66c2fb8c.js",
     "static/js/787.a00ba015.chunk.js": "/sprachlernuebung/static/js/787.a00ba015.chunk.js",
     "index.html": "/sprachlernuebung/index.html",
-    "main.d20b476e.css.map": "/sprachlernuebung/static/css/main.d20b476e.css.map",
-    "main.1cfded06.js.map": "/sprachlernuebung/static/js/main.1cfded06.js.map",
+    "main.088b7b0f.css.map": "/sprachlernuebung/static/css/main.088b7b0f.css.map",
+    "main.66c2fb8c.js.map": "/sprachlernuebung/static/js/main.66c2fb8c.js.map",
     "787.a00ba015.chunk.js.map": "/sprachlernuebung/static/js/787.a00ba015.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.d20b476e.css",
-    "static/js/main.1cfded06.js"
+    "static/css/main.088b7b0f.css",
+    "static/js/main.66c2fb8c.js"
   ]
 }
